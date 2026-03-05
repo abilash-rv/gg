@@ -1,6 +1,7 @@
 # Add the numbers
 def add(a,b):
-  return num1 + num2
+  sum = a+b
+  return sum
 
 # Display the sum
-print("The sum of", num1, "and", num2, "is:", sum_result)
+print("The sum of", a, "and", b, "is:", sum)
